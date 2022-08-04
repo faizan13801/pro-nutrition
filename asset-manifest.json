@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/faizan13801/pro-nutrition.git/static/css/main.6fffb304.css",
+    "main.js": "/faizan13801/pro-nutrition.git/static/js/main.9bb087c5.js",
+    "index.html": "/faizan13801/pro-nutrition.git/index.html",
+    "main.6fffb304.css.map": "/faizan13801/pro-nutrition.git/static/css/main.6fffb304.css.map",
+    "main.9bb087c5.js.map": "/faizan13801/pro-nutrition.git/static/js/main.9bb087c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fffb304.css",
+    "static/js/main.9bb087c5.js"
+  ]
+}
