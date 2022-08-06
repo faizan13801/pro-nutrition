@@ -1,13 +1,13 @@
 {
-  "files": {
-    "main.css": "/faizan13801/pro-nutrition.git/static/css/main.6fffb304.css",
-    "main.js": "/faizan13801/pro-nutrition.git/static/js/main.9bb087c5.js",
-    "index.html": "/faizan13801/pro-nutrition.git/index.html",
-    "main.6fffb304.css.map": "/faizan13801/pro-nutrition.git/static/css/main.6fffb304.css.map",
-    "main.9bb087c5.js.map": "/faizan13801/pro-nutrition.git/static/js/main.9bb087c5.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.6fffb304.css",
-    "static/js/main.9bb087c5.js"
-  ]
+  "main.css": "/pro-nutrition/static/css/main.0176a167.chunk.css",
+  "main.js": "/pro-nutrition/static/js/main.ae67312a.chunk.js",
+  "main.js.map": "/pro-nutrition/static/js/main.ae67312a.chunk.js.map",
+  "static/js/1.e975f76d.chunk.js": "/pro-nutrition/static/js/1.e975f76d.chunk.js",
+  "static/js/1.e975f76d.chunk.js.map": "/pro-nutrition/static/js/1.e975f76d.chunk.js.map",
+  "runtime~main.js": "/pro-nutrition/static/js/runtime~main.d2385085.js",
+  "runtime~main.js.map": "/pro-nutrition/static/js/runtime~main.d2385085.js.map",
+  "static/css/main.0176a167.chunk.css.map": "/pro-nutrition/static/css/main.0176a167.chunk.css.map",
+  "index.html": "/pro-nutrition/index.html",
+  "precache-manifest.25d8b9fa1d676013b84b4e3215f287d6.js": "/pro-nutrition/precache-manifest.25d8b9fa1d676013b84b4e3215f287d6.js",
+  "service-worker.js": "/pro-nutrition/service-worker.js"
 }
